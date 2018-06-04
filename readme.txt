@@ -1,3 +1,3 @@
 ﻿git 
-name nwdr
-email qq@qq.com
+name nwdr;
+email qq@qq.com;
